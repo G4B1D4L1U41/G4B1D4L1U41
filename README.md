@@ -2,7 +2,7 @@
 
 #### Front-end developer
 
-- Knowledge: JavaScript, Scss, HTML5, CSS3, Git & GitHub and Adobe package.
+- Knowledge: JavaScript, HTML5, CSS3, GO, Git & GitHub and Adobe package.
 - gabrieldeluchi6@gmail.com
 
 <div align="center">
