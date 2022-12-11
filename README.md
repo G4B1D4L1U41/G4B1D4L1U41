@@ -28,6 +28,7 @@
  
 </div>
 
- Inspire by: https://github.com/rafaballerini/rafaballerini/ and https://github.com/BrunaFusiger/BrunaFusiger
-
+<div align="center">  
+     Inspire by: https://github.com/rafaballerini/rafaballerini/ and https://github.com/BrunaFusiger/BrunaFusiger
+</div>
   
