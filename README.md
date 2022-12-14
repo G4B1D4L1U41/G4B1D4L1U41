@@ -5,6 +5,7 @@
 - Knowledge: JavaScript, HTML5, CSS3, GO, Git & GitHub and Adobe package.
 - gabrieldeluchi6@gmail.com
 
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=G4B1D4L1U41)
 <hr>
 
 <div align="center">
